@@ -11,3 +11,5 @@ license: mit
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+Clone from https://huggingface.co/spaces/anzorq/finetuned_diffusion/tree/main
